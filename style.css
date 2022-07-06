@@ -41,7 +41,7 @@
 .grid-container .text-block {
     position: absolute;
     bottom: 0rem;
-    text-shadow: -1px -1px 0 #585858, 1px -1px 0 #585858, -1px 1px 0 #585858, 1px 1px 0 #585858;
+    text-shadow: -0.0625rem -0.0625rem 0 #585858, 0.0625rem -0.0625rem 0 #585858, -0.0625rem 0.0625rem 0 #585858, 0.0625rem 0.0625rem 0 #585858;
 }
 
 .grid-container .text-block .top-text {
